@@ -1,0 +1,19 @@
+# Database
+db.sqlite3
+db.sqlite3-journal
+
+# Uploaded media
+/media/
+/staticfiles/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
